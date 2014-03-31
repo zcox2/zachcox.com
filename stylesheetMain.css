@@ -134,6 +134,11 @@ img
 	border-radius: 20px;
 }
 
+iframe
+{
+	margin: 0 120px;
+}
+
 p
 {
 	font-family: "Georgia";
@@ -156,7 +161,7 @@ p
 
 #content
 {
-	height: 1900px;
+	height: 2500px;
 	width: 900px;
 	top: 10%;
 	margin: 0 auto;
